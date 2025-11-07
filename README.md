@@ -23,7 +23,7 @@ SSMS 2020
 |Id|Descs|
 |-|------|
 |HUBWEB |Payment Hub Web Service|
-|HUBAPP |Paynent Hub App Service|
+|HUBAPP |Payment Hub App Service|
 
 ### Port Config
 
