@@ -8,15 +8,19 @@ SSMS 2020
 
 ## Server Info
 
-UATADDC 192.168.105.2 Domain Controller
-UAT-WF-CLS 192.168.105.11 Windows Failover Cluster
-UATKBANK.COM Domain Name
-UATHUBDB01 192.168.105.31 
-UATHUBDB01 192.168.105.32
-UAT-HUB-WEB-AGL 192.168.105.34
-UAT-HUB-APP-AGL 192.168.105.35
+| Server|Ip Address|Descs|
+|-------|----------|-----|
+|UATADDC|192.168.105.2|Domain Controller|
+|UAT-WF-CLS|192.168.105.11|Windows Failover Cluster|
+|UATKBANK.COM||Domain Name||
+|UATHUBDB01|192.168.105.31||
+|UATHUBDB01|192.168.105.32||
+|UAT-HUB-WEB-AGL|192.168.105.34||
+|UAT-HUB-APP-AGL|192.168.105.35||
 
 ## Database Info
 
-HUBWEB Payment Hub Web Service
-HUBAPP Paynent Hub App Service
+|Id|Descs|
+|-|------|
+|HUBWEB |Payment Hub Web Service|
+|HUBAPP |Paynent Hub App Service|
