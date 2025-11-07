@@ -24,3 +24,11 @@ SSMS 2020
 |-|------|
 |HUBWEB |Payment Hub Web Service|
 |HUBAPP |Paynent Hub App Service|
+
+### Port Config
+
+|Port|Type|Descs|
+|----|----|-----|
+|1433|TCP|SQL Server TCP-In|
+|1434|UDP|SQL Server UDP-In|
+|5022|TCP|SQL Server End-Point|
