@@ -11,7 +11,7 @@ SSMS 2020
 | Server|Ip Address|Descs|
 |-------|----------|-----|
 |UATADDC|192.168.105.2|Domain Controller|
-|UAT-WF-CLS|192.168.105.11|Windows Failover Cluster|
+|UAT-HUBWF-CLS|192.168.105.11|Windows Failover Cluster|
 |UATKBANK.COM||Domain Name||
 |UATHUBDB01|192.168.105.31||
 |UATHUBDB01|192.168.105.32||
